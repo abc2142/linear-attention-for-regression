@@ -10,3 +10,6 @@
 * $\Gamma$ is a $D \times (D+1)$ matrix of the transformer parameters to be optmized.
 
 * The prediction of $y$ can be approximated as $\hat{y} = < \Gamma, H_Z> = \mbox{Trace}( H_z^T \Gamma )$
+
+
+The code has been developed using [GNU Octave](https://octave.org).
